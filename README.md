@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Interested in Software Engineering and Full-Stack Development.
-
-Passionate about building practical projects and continuously learning new technologies.
-
 * 🌍  I'm based in Bangkok ,Thailand
 
 ### Skills
